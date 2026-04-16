@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOvEg+KBAcQBaSJd1u/uKzV",
+      "authorship_tag": "ABX9TyNgQSqcJhNlquZIs+ZeavRG",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -33,6 +33,10 @@
         "id": "dnlRtLqk0cU8"
       },
       "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
       "source": [
         "Model Research: Decision Tree Algorithm – Crypto Investment Manager\n",
         "\n",
@@ -188,7 +192,10 @@
         "CSV report generation\n",
         "\n",
         "Email alerts using SMTP"
-      ]
+      ],
+      "metadata": {
+        "id": "n3WvjcGf27dm"
+      }
     }
   ]
 }
